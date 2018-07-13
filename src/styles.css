@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.navbar{
+    background: #1cb0f6;
+}
+.jumbotron{
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
